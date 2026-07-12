@@ -1,11 +1,11 @@
 # Today, we understand variables and some functions
 
-# a = ""start"
-# print(a)
+a = "start"
+print(a)
 
-# b = 5
-# c= 10
-# print(b+c)
+b = 5
+c= 10
+print(b+c)
 
 # let's understand the type function
 
